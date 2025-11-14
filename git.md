@@ -3,7 +3,7 @@ untracked/modified -> added to staging -> commit
 git init- initialise a git repo
 git add <filename> - add particular file to staging
 git add. - add all files to staging area
-git status (git gst) -> both are same
+git status (git gst) -> both are same//but u need to setup
 git checkout <filename> - undo the chnages from the last stage/ commit
 git checkout<branch-name> - checkout to particular branch
 git checkout -b <branch-name> - create a new branch from current branch and checkout to it
@@ -17,3 +17,4 @@ short cut command for git -
 3.git add -> ga <filename>
 4.gcmsg
 5.gcm
+modified line
