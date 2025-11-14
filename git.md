@@ -5,13 +5,13 @@ git add <filename> - add particular file to staging
 git add. - add all files to staging area
 git status (git gst) -> both are same//but u need to setup
 git checkout <filename> - undo the chnages from the last stage/ commit
-git checkout<branch-name> - checkout to particular branch
-git checkout -b <branch-name> - create a new branch from current branch and checkout to it
+git checkout<branch-name> - checkout to a particular branch
+git checkout -b <branch-name> - create a new branch from the current branch and checkout to it
 git remote add origin https://github.com/AnjaliVishwakarma33/fullstack-track
-git push -u origin <branch-name>
+git push -u(upstream) origin <branch-name>
 git pull
 git merge <branch-name>
-short cut command for git -
+short cut command for git -:
 1.gst -> git status
 2.gco <branch-name>
 3.git add -> ga <filename>
