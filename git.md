@@ -11,10 +11,10 @@ git remote add origin https://github.com/AnjaliVishwakarma33/fullstack-track
 git push -u(upstream) origin <branch-name>
 git pull
 git merge <branch-name>
+git clone <url>
 short cut command for git -:
 1.gst -> git status
 2.gco <branch-name>
 3.git add -> ga <filename>
 4.gcmsg
 5.gcm
-pull on local first
