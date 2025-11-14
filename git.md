@@ -17,4 +17,4 @@ short cut command for git -:
 3.git add -> ga <filename>
 4.gcmsg
 5.gcm
-modified line
+pull on local first
